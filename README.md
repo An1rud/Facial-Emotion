@@ -34,7 +34,7 @@ The model is compiled using 'categorical_crossentropy' loss and 'adam' optimizer
 
 ## Clone this repository:
 ```bash
-git clone https://github.com/your-username/emotion-recognition-cnn.git
+git clone https://github.com/An1rud/Facial-Emotion.git
 ```
 ## Install the required dependencies:
 ```bash
